@@ -23,7 +23,7 @@ Futuro sin Mundo
     Periodismo: Ricardo Balderas.
     Desarrollo: Marisol Carrillo.
     Diseño editorial e ilustración: Adrián Sánchez Martínez.
-    Redes sociales: Mariela Álvarez Alatriste.
+    Comunicación: Mariela Álvarez Alatriste.
     Coordinación de Comunicación Externa: Paulina Souza.
     Dirección del proyecto: Oscar Pineda.
     Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym.
