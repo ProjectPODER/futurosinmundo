@@ -26,8 +26,22 @@ $green:   #28a745 !default;
 $teal:    #20c997 !default;
 $cyan:    #1491a5 !default;
 
-$primary:       $red !default;
-$secondary:     $blue !default;
+//TB COLORS
+$color1:   #c2e1d7;
+$color2:   #a0c7bc;
+$color3:   #2865a3;
+$color4:   #4b1f6f;
+$color5:   #fab040;
+$color6:   #ff420e;
+$color7:   #d21e07;
+$color8:   #92132c;
+$color9:   #83caff;
+$color10:  #aecf00;
+$color11:  #579d1c;
+$color12:  #0e6043;
+
+$primary:       $color8 !default;
+$secondary:     $color11 !default;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
@@ -39,7 +53,7 @@ $dark:          $gray-800 !default;
 //Home background image
 //You need to change only the name and the type of your image
 //For example:./img/your-image.png
-$bgHome : "./img/bg-masthead.jpg";
+$bgHome : "./img/";
 
 // Graph tooltip title color
 $graphTooltipTitleColor: $info;
@@ -69,6 +83,6 @@ $font-size-lg:                ($font-size-base * 1.25) !default;
 $font-size-sm:                ($font-size-base * .875) !default;
 
 // Preloader colors
-$preloader-color1: #1ee6d3;
-$preloader-color2: #343a40;
-$preloader-color3: $primary;
+$preloader-color1: $color8;
+$preloader-color2: $color4;
+$preloader-color3: $color2;
