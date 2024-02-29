@@ -15,4 +15,4 @@ Por otra parte se encuentra la producción de los dispositivos para el calentado
 Actualmente se cuenta con una base de datos que ha identificado una lista de proveedores de estos metales en distintos países, (véase archivo adjunto). El desarrollo de la investigación busca identificar riesgos asociados con las empresas proveedoras, además de apuntar los impactos que tienen la actividad extractiva de esos metales para los derechos humanos de las comunidades que viven en los puntos de extracción.
 
 {:.image-post}
-assets/img/photo_5690329762072995779_y.jpg
+![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/photo_5690329762072995779_y.jpg
