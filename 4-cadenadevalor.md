@@ -13,6 +13,3 @@ La evaluación de impacto de los productos de tabaco calentado se basan en vario
 Por otra parte se encuentra la producción de los dispositivos para el calentado de tabaco que están vinculados con la industria manufacturera y la utilización de metales considerados conflictivos. Para ello nos basaremos en los dispuesto por la Commission Recommendation (EU) 2018/1149 of 10 August 2018 on non-binding guidelines for the identification of conflict-affected and high-risk areas and other supply chain risks under Regulation (EU) 2017/821 of the European Parliament and of the Council.
 
 Actualmente se cuenta con una base de datos que ha identificado una lista de proveedores de estos metales en distintos países, (véase archivo adjunto). El desarrollo de la investigación busca identificar riesgos asociados con las empresas proveedoras, además de apuntar los impactos que tienen la actividad extractiva de esos metales para los derechos humanos de las comunidades que viven en los puntos de extracción.
-
-{:.image-post}
-![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/photo_5690329762072995779_y.jpg)
