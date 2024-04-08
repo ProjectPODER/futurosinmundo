@@ -21,8 +21,8 @@ más compleja y conlleva una serie de impactos al medio ambiente, la salud y los
 difundida como una forma de contribuir a que las personas tomen decisiones más sustentadas.
 
 
-[PMI]()
-[PTC]()
+[Análisis corporativo](/analisis-corporativo/)
+[Tabaco calentado](/tabaco-calentado/)
 [Cadena de Valor]()
 [Informe]()
 

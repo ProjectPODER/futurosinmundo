@@ -1,8 +1,8 @@
 ---
 title: Slide 1
-image: graphic-example1.png
+iframe: https://onodo.org/visualizations/281751/embed/
 ---
 
-# ESTE ES EL PRIMER SLIDE
+# Mapa de actores de la empresa PMI en América Latina
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+El mapa es interactivo, por lo que muestra las subsidiarias en América Latina de PMI, sus proveedores, así como sus principales financiadores. En cada uno de los actores se puede observar información específica como nombre de la empresa, relación con la matriz, ubicación.

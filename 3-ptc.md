@@ -1,7 +1,7 @@
 ---
 layout: page
-title: PTC
-permalink: /ptc/
+title: Tabaco calentado
+permalink: /tabaco-calentado/
 ---
 # RADIOGRAFÍA DE LOS PRODUCTOS DE TABACO CALENTADO
 
@@ -12,7 +12,7 @@ los cigarros tradicionales y se comercializan con distintos sabores, son calenta
 
 
 {:.image-post}
-![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/iQOS-product-diagrams-A-iQOS-components-and-use-and-B-iQOS-data-collection.png)
+![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/diagramanuevoparaTB.png)
 
 El calentador es un dispositivo electrónico que contiene una lamina de cerámica y metal donde se coloca la unidad de tabaco y la calienta a una temperatura controlada que evita quemarlo
 para producir un aerosol de nicotina, a través de una batería de iones de litio de 120 mAh. El cargador de bolsillo contiene una batería de iones de litio de 2900 mAh que suministra

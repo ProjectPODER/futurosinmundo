@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: graphic-example2.png
+iframe: https://onodo.org/visualizations/281755/embed/
 ---
 
 # ESTE ES EL SEGUNDO SLIDE

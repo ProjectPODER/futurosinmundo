@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: graphic-example3.png
+iframe: https://onodo.org/visualizations/281756/embed/
 ---
 
 # ESTE ES EL TERCER SLIDE
