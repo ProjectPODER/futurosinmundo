@@ -8,7 +8,7 @@ permalink: /informe/
 Este informe analiza la cadena de valor de los productos de tabaco calentado bajo la marca IQOS de Philip Morris Internacional.
 
 <div class="embed-responsive embed-responsive-16by9">
-  <iframe class="embed-responsive-item" src="https://poderlatam.org/wp-content/uploads/2024/04/ElNegocioDeLaAdiccion_TabacoCalentado.pdf"></iframe>
+  <iframe class="embed-responsive-item" src="{{ site.baseurl }}/assets/ElNegocioDeLaAdiccion_TabacoCalentado.pdf"></iframe>
 </div>
 <br>
 
