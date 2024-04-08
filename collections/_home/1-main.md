@@ -23,8 +23,8 @@ difundida como una forma de contribuir a que las personas tomen decisiones más 
 
 [Análisis corporativo](/analisis-corporativo/)
 [Tabaco calentado](/tabaco-calentado/)
-[Cadena de Valor]()
-[Informe]()
+[Cadena de Valor](/cadena-de-valor/)
+[Informe](/informe/)
 
 
 
