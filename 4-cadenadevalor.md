@@ -6,7 +6,7 @@ permalink: /cadena-de-valor/
 
 # CADENA DE VALOR DE LOS PRODUCTOS DE TABACO CALENTADO
 
-La cadena de valor de los dispositivos de tabaco calentado se compone en primer lugar de las unidades de tabaaco que está ligada en un primer momento al cultivo y procesamiento del tabaco, el cual puede ser ressumido en la siguiente figura.
+La cadena de valor de los dispositivos de tabaco calentado se compone en primer lugar de las unidades de tabaco que está ligada al cultivo y procesamiento del tabaco, el cual puede ser ressumido en la siguiente figura.
 
 {:.image-post}
 ![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/CDSTabaco.png)
