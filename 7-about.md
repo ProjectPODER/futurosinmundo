@@ -18,20 +18,13 @@ El proyecto utiliza el sistema [Tower Builder](https://towerbuilder.readthedocs.
 
 ## Créditos
 
-Investigación: Daniel Castrejón y Oscar Pineda.
-
-Periodismo: Ricardo Balderas.
-
-Desarrollo: Marisol Carrillo.
-
-Diseño editorial e ilustración: Adrián Sánchez Martínez.
-
-Comunicación: Mariela Álvarez Alatriste.
-
-Coordinación de Comunicación Externa: Paulina Souza.
-
-Coordinación del proyecto: Oscar Pineda.
-
-Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym.
+Investigación: Daniel Castrejón y Oscar Pineda. 
+Periodismo: Ricardo Balderas. 
+Desarrollo: Marisol Carrillo. 
+Diseño editorial e ilustración: Adrián Sánchez Martínez. 
+Comunicación: Mariela Álvarez Alatriste. 
+Coordinación de Comunicación Externa: Paulina Souza. 
+Coordinación del proyecto: Oscar Pineda. 
+Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym. 
 
     
