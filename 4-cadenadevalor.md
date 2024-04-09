@@ -6,13 +6,7 @@ permalink: /cadena-de-valor/
 
 # CADENA DE VALOR DE LOS PRODUCTOS DE TABACO CALENTADO
 
-La cadena de suministro de los dispositivos IQOS depende en buena medida de la industria ex
-tractiva como son minerales metálicos y no metálicos, algunos de ellos considerados como mi
-nerales críticos; es decir, aquellos que son esenciales para la transición energética y su impacto
-en el desarrollo de los países. 49 Entre ellos se encuentran el germanio, boron, galio y arsénico,
-además de oro, platino y tungsteno entre otros, los cuales son minerales necesarios para la
-producción de microprocesadores o semiconductores, así como circuitos electrónicos o bien
-en la lámina de calentamiento de cerámica dentro de IQOS, que tiene rastros de oro y platino.
+La cadena de suministro de los dispositivos IQOS depende en buena medida de la industria extractiva como son minerales metálicos y no metálicos, algunos de ellos considerados como minerales críticos; es decir, aquellos que son esenciales para la transición energética y su impacto en el desarrollo de los países. 49 Entre ellos se encuentran el germanio, boron, galio y arsénico, además de oro, platino y tungsteno entre otros, los cuales son minerales necesarios para la producción de microprocesadores o semiconductores, así como circuitos electrónicos o bien en la lámina de calentamiento de cerámica dentro de IQOS, que tiene rastros de oro y platino.
 
 Por otra parte se encuentra la producción de los dispositivos para el calentado de tabaco que están vinculados con la industria manufacturera y la utilización de metales considerados conflictivos. Para ello nos basaremos en los dispuesto por la Commission Recommendation (EU) 2018/1149 of 10 August 2018 on non-binding guidelines for the identification of conflict-affected and high-risk areas and other supply chain risks under Regulation (EU) 2017/821 of the European Parliament and of the Council.
 
@@ -33,7 +27,7 @@ Actualmente se cuenta con una base de datos que ha identificado una lista de pro
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AH-PMI" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/65dcb0189fec8e001497ae37" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
- la cadena de suministro de los PTC, como otras que se basan en la explotación intensiva
+La cadena de suministro de los PTC, como otras que se basan en la explotación intensiva
 de bienes naturales, da cuenta de un negocio que profundiza el modelo capitalista basado en
 el extractivismo neocolonial, en el que paradójicamente los mercados menos significativos son
 aquellos donde se quedan y resienten de mayor forma los pasivos ambientales, sociales y las
