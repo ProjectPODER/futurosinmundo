@@ -6,12 +6,10 @@ permalink: /cadena-de-valor/
 
 # CADENA DE VALOR DE LOS PRODUCTOS DE TABACO CALENTADO
 
-La cadena de valor de los dispositivos de tabaco calentado se compone en primer lugar de las unidades de tabaco que está ligada al cultivo y procesamiento del tabaco, el cual puede ser ressumido en la siguiente figura.
+La cadena de valor de los dispositivos de tabaco calentado se compone en primer lugar de las unidades de tabaco que está ligada al cultivo y procesamiento del tabaco, el cual puede ser resumido en la siguiente figura.
 
 {:.image-post}
 ![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/CDSTabaco.png)
-
-
 
 depende en buena medida de la industria extractiva como son minerales metálicos y no metálicos, algunos de ellos considerados como minerales críticos; es decir, aquellos que son esenciales para la transición energética y su impacto en el desarrollo de los países. 49 Entre ellos se encuentran el germanio, boron, galio y arsénico, además de oro, platino y tungsteno entre otros, los cuales son minerales necesarios para la producción de microprocesadores o semiconductores, así como circuitos electrónicos o bien en la lámina de calentamiento de cerámica dentro de IQOS, que tiene rastros de oro y platino.
 
