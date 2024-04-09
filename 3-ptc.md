@@ -7,6 +7,9 @@ permalink: /tabaco-calentado/
 
 Los productos de tabaco calentado han ganado de manera paulatina mayores espacios en el mercado del consumo de tabaco. Para el 2022 su comercialización se extendió a 73 países alrededor del mundo. El número de personas usuarias a nivel global ha crecido en un promedio de 18% anual, pasando de 17.6 millones de usuarios en 20205 a 21.2 millones en 2021, mientras que para el 2022 se reportaron cerca de 24.9 millones de personas que usan alguno de los productos IQOS (PMI, 2022).
 
+{:.image-post}
+![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/2024-04-09 01-21-03.png)
+
 Los dispositivos de tabaco calentado se componen de tres elementos: el calentador, el cargador y las unidades de tabaco, también denominadas Heatsticks. Estas unidades de tabaco son más pequeñas que
 los cigarros tradicionales y se comercializan con distintos aromas, sabores e intensidades. Su producción, a diferencia de los cigarros, implica someter el tabaco a un proceso adicional de triturado para ser mezclado con agua, glicerina, fibras y goma guar (PMI-Science).
 
