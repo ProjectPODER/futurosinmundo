@@ -5,8 +5,7 @@ permalink: /tabaco-calentado/
 ---
 # RADIOGRAFÍA DE LOS PRODUCTOS DE TABACO CALENTADO
 
-Los dispositivos electrónicos, en particular los productos de tabaco calentado, han ganado de manera paulatina mayores espacios en el mercado del consumo de tabaco. Para el 2022 su comercialización se extendió a 73 países alrededor del mundo. El número de personas usuarias a nivel global ha crecido en un promedio de 18% anual, pasando de 17.6 millones de usuarios en 20205 a 21.2 millones en 2021,
-mientras que para el 2022 se reportaron cerca de 24.9 millones de personas que usan alguno de los productos IQOS (PMI, 2022).
+Los dispositivos electrónicos, en particular los productos de tabaco calentado, han ganado de manera paulatina mayores espacios en el mercado del consumo de tabaco. Para el 2022 su comercialización se extendió a 73 países alrededor del mundo. El número de personas usuarias a nivel global ha crecido en un promedio de 18% anual, pasando de 17.6 millones de usuarios en 20205 a 21.2 millones en 2021, mientras que para el 2022 se reportaron cerca de 24.9 millones de personas que usan alguno de los productos IQOS (PMI, 2022).
 
 Estos dispositivos utilizan dos sistemas de calentamiento: HeatControl Technology y Smartcore Induction System
 
