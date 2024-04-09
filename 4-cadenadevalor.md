@@ -21,7 +21,7 @@ del Congo o de alguno de sus países vecinos, donde las violaciones a los derech
 y del derecho internacional están estrechamente vinculados con esta actividad.
 
 La extracción de estos minerales en ocasiones pueden ser utilizados con la finalidad de financiar 
-conflictos armados en algunos países. Desde 2014 las empresas registradas en los Estados
+conflictos armados en algunos países. Desde 2014, las empresas registradas en los Estados
 Unidos son requeridas para presentar un reporte anual ante la SEC donde informen si utilizan
 alguno de los minerales en conflicto. 
 
