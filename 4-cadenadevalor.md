@@ -11,17 +11,14 @@ La cadena de valor de los dispositivos de tabaco calentado se compone en primer 
 {:.image-post}
 ![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/CDSTabaco.png)
 
-depende en buena medida de la industria extractiva como son minerales metálicos y no metálicos, algunos de ellos considerados como minerales críticos; es decir, aquellos que son esenciales para la transición energética y su impacto en el desarrollo de los países. 49 Entre ellos se encuentran el germanio, boron, galio y arsénico, además de oro, platino y tungsteno entre otros, los cuales son minerales necesarios para la producción de microprocesadores o semiconductores, así como circuitos electrónicos o bien en la lámina de calentamiento de cerámica dentro de IQOS, que tiene rastros de oro y platino.
-
-Por otra parte se encuentra la producción de los dispositivos para el calentado de tabaco que están vinculados con la industria manufacturera y la utilización de metales considerados conflictivos. Para ello nos basaremos en los dispuesto por la Commission Recommendation (EU) 2018/1149 of 10 August 2018 on non-binding guidelines for the identification of conflict-affected and high-risk areas and other supply chain risks under Regulation (EU) 2017/821 of the European Parliament and of the Council.
+Por otra parte se encuentra la producción de los dispositivos para el calentado de tabaco que están vinculados con la industria manufacturera y la utilización de metales considerados conflictivos. Para ello nos basaremos en los dispuesto por la Commission Recommendation (EU) 2018/1149 of 10 August 2018 on non-binding guidelines for the identification of conflict-affected and high-risk areas and other supply chain risks under Regulation (EU) 2017/821 of the European Parliament and of the Council. Depende en buena medida de la industria extractiva como son minerales metálicos y no metálicos, algunos de ellos considerados como minerales críticos; es decir, aquellos que son esenciales para la transición energética y su impacto en el desarrollo de los países. 49 Entre ellos se encuentran el germanio, boron, galio y arsénico, además de oro, platino y tungsteno entre otros, los cuales son minerales necesarios para la producción de microprocesadores o semiconductores, así como circuitos electrónicos o bien en la lámina de calentamiento de cerámica dentro de IQOS, que tiene rastros de oro y platino.
 
 los minerales que son utilizados en la producción de dispositivos electrónicos son
 considerados como minerales en conflicto, entre los que se encuentra el estaño, tungsteno,
 tantalio y oro. Se trata de aquellas materias primas que a menudo se extraen de forma ilegal y
-sin control estatal en regiones de conflicto o zonas de alto riesgo como la República Democráti-
-ca del Congo o de alguno de sus países vecinos, donde las violaciones de los derechos humanos
+sin control estatal en regiones de conflicto o zonas de alto riesgo como la República Democrática
+del Congo o de alguno de sus países vecinos, donde las violaciones de los derechos humanos
 y del derecho internacional están estrechamente vinculados con esta actividad.
-
 
 La extracción de estos minerales en ocasiones pueden ser utilizados con la finalidad de finan-
 ciar conflictos armados en algunos países. Desde 2014 las empresas registradas en los Estados
