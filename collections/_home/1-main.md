@@ -16,9 +16,7 @@ media-left: false
 ## ANÁLISIS DE LA CADENA DE VALOR DE LOS PRODUCTOS DE TABACO CALENTADO Y SUS IMPACTOS
 
 {:.main-text}
-Los productos de tabaco calentado han ganado terreno en el mercado a través de una intensa campaña de marketing que los presenta como una opción menos dañina. No obstante, su producción es
-más compleja y conlleva una serie de impactos al medio ambiente, la salud y los derechos humanos que se enuentra oculta en la falta de transparencia empresarial, y la cual debe ser ampliamente
-difundida como una forma de contribuir a que las personas tomen decisiones más sustentadas.
+Los productos de tabaco calentado se comercializan a través de una estrategia de mercadotecnia que los presenta como dispositivos de riesgo reducido y, por consiguiente, menos dañinos. No obstante, su producción es compleja y altamente dependiente de una industria que genera impactos al medio ambiente, la salud y los derechos humanos. Esa información se encuentra oculta entre la falta de transparencia y la complejidad de su cadena de suministros, y es esencial para que las personas tomen decisiones más informadas.
 
 
 [Análisis corporativo](/analisis-corporativo/)
