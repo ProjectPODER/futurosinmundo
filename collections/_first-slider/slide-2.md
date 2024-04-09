@@ -3,6 +3,6 @@ title: Slide 2
 iframe: https://onodo.org/visualizations/281755/embed/
 ---
 
-# ESTE ES EL SEGUNDO SLIDE
+# Los socios de la adicción
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+En 2022, PMI realizó compras de hojas de tabaco de varios tipos, grados y estilos a través del mundo, en su mayoría a vendedores de tabaco independientes. En 2022, contrató directamente a agricultores de varios países, entre los que se encuentran Argentina, Brasil, Italia, Pakistán y Polonia. En 2022, la compra directa de agricultores representó aproximadamente el 16% de los requerimientos de hoja de tabaco globales de PMI.
