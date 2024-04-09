@@ -13,7 +13,6 @@ media-left: false
 ---
 
 # FUTURO SIN MUNDO
-## ANÁLISIS DE LA CADENA DE VALOR DE LOS PRODUCTOS DE TABACO CALENTADO Y SUS IMPACTOS
 
 {:.main-text}
 Los productos de tabaco calentado han ganado terreno en el mercado a través de una intensa campaña de marketing que los presenta como una opción menos dañina. No obstante, su producción es
