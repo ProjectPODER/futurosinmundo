@@ -8,6 +8,11 @@ permalink: /sobre-el-proyecto/
 
 Futuro Sin Mundo es un proyecto de datos, investigación y periodismo de PODER para transparentar información sobre los beneficiarios reales y la cadena de suministro de los productos de tabaco calentado. El objetivo es aportar información desde una mirada crítica sobre los principales impactos de la manufactura de estos productos y que las decisiones en torno a su comercialización en México estén sustentadas en evidencia.
 
+Este proyecto fue posible gracias a una subvención administrada por Vital Strategies y
+financiada por Bloomberg Philantropies. Los contenidos son responsabilidad
+de PODER y bajo ningún caso debe considerarse que refleja el punto de vista de Vital
+Strategies o de Bloomberg Philantropies.
+
 ## Metodología
 
 Todas las afirmaciones aquí publicadas se encuentran debidamente justificadas con la información proveniente de los informes anuales, financieros y de sustentabilidad de las empresas, informes ante la Securities Exchange Commission, el Diario Oficial de la Federación y el Registro Público de Comercio. Además, se consultaron informes y trabajos académicos que se encuentran debidamente referenciados en el reporte de investigación y el reportaje periodístico.
