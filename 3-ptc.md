@@ -18,7 +18,7 @@ los cigarros tradicionales y se comercializan con distintos aromas, sabores e in
 
 El calentador es un dispositivo electrónico compuesto principalmente por un chip microcontrolador capaz de almacenar y transmitir información. Además contiene una lámina de metal con rastros de oro y platino, donde se coloca la unidad de tabaco y la calienta a una temperatura controlada para producir un aerosol de nicotina. Este cargador funciona a través de una batería recargable de iones de litio (PMI-IQOS).
 
-El cargador de bolsillo esta compuesto por una carcasa, una tarjeta electrónica con diversos microcomponentes como microcontroladores y un cargador para la batería de iones de litio de 2900 mAh que a su vez suministra energía al calentador.
+El cargador de bolsillo se compone de una carcasa, una tarjeta electrónica con diversos microcomponentes como microcontroladores y un cargador para la batería de iones de litio de 2900 mAh, que a su vez suministra energía al calentador.
 
 {:.image-post}
 ![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/diagramanuevoparaTB.png)
