@@ -5,4 +5,5 @@ iframe: https://onodo.org/visualizations/281756/embed/
 
 # ESTE ES EL TERCER SLIDE
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+En la estructura accionaria de PMI, los principales accionistas son instituciones que manejan fondos de inversiónlas cuales controlan alrededor del 80% de las acciones de Philip Morris. Entre las principales
+instituciones de este tipo encontramos a: The Vanguard Group, BlackRock, Inc. y Capital Group Companies, Inc. a través de sus subsidiarias Capital International Investors y Capital World Investors. Cada una es propietaria de más del 5% de las acciones de PMI y en conjunto controlan cerca del 28% de las acciones.
