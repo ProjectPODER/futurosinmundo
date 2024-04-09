@@ -7,6 +7,9 @@ permalink: /tabaco-calentado/
 
 Estos dispositivos utilizan dos sistemas de calentamiento: HeatControl Technology y Smartcore Induction System
 
+{:.image-post}
+![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/IQOS.png)
+
 Ambos dispositivos se componen de tres elementos: el calentador, el cargador y las unidades de tabaco, también denominadas Heatsticks. Estas unidades de tabaco son más pequeñas que
 los cigarros tradicionales y se comercializan con distintos sabores, son calentadas de manera eléctrica para liberar un aerosol.
 
