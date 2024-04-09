@@ -18,9 +18,9 @@ media-left: false
 Los productos de tabaco calentado se comercializan a través de una estrategia de mercadotecnia que los presenta como dispositivos de riesgo reducido y, por consiguiente, menos dañinos. No obstante, su producción es compleja y altamente dependiente de una industria que genera impactos al medio ambiente, la salud y los derechos humanos. Esa información se encuentra oculta entre la falta de transparencia y la complejidad de su cadena de suministros, y es esencial para que las personas tomen decisiones más informadas.
 
 
-[La empresa](/analisis-corporativo/)
-[Dispositivos](/tabaco-calentado/)
-[¿Menos humo?](/menos-humo/)
+[La empresa](/análisis-corporativo/)
+[Dispositivos](/dispositivos-electrónicos/)
+[¿Menos humo?](/¿-menos-humo-?/)
 [Informe](/informe/)
 
 
