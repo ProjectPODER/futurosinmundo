@@ -20,4 +20,8 @@ PMI ha publicado una [lista de proveedores de estos metales en distintos países
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AH-PMI" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/65dcb0189fec8e001497ae37" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div>
 
+
 La cadena de suministro de los PTC, como otras que se basan en la explotación intensiva de bienes naturales da cuenta de un negocio que profundiza un modelo extractivista en el que, paradójicamente, los países que menos consumen los productos, en este caso los PTC, son aquellos donde se quedan y resienten con mayor fuerza los pasivos ambientales, sociales y las consecuencias de las violaciones a los derechos humanos.
+
+
+
