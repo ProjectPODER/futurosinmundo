@@ -3,14 +3,13 @@ layout: page
 title: Informe
 permalink: /informe/
 ---
-# El negocio de la adicción. Análisis sobre la cadena de suministro de los productos de tabaco calentado.
+# El negocio de la adicción. Análisis de la cadena de suministro de los productos de tabaco calentado.
 
+En los últimos años ha habido un auge del consumo de dispositivos electrónicos de suministro de nicotina y de dispositivos de tabaco calentado.  A pesar de los interrogantes que existen sobre sus efectos en la salud de las personas que los consumen y los escasos estudios al respecto, tienen cada vez mayor presencia en los mercados. 
 
-En los últimos años ha habido un auge en los dispositivos electrónicos de suministro de nicotina junto con los dispositivos de tabaco calentado, los cuales tienen cada vez mayor presencia en los mercados, a pesar de las muchas interrogantes que existen sobre sus efectos en la salud de las personas que los consumen, y con las que conviven, aunado a los escasos estudios al respecto. Uno de los argumentos clave de las empresas tabacaleras para el desarrollo y venta de estos dispositivos gira en torno a la eliminación de la combustión; una ventaja que, de acuerdo con ellas, supone la liberación de más de seis mil sustancias potencialmente dañinas para el cuerpo humano.
+Las empresas tabacaleras afirman que la eliminación de la combustión es una ventaja que tienen estos dispositivos por sobre el cigarro convencional y los promociona como innovadores y como productos de riesgo reducido. Sin embargo, la producción de estos dispositivos depende de un conjunto de materias primas adicionales al tabaco, tales como minerales metálicos y no metálicos cuya explotación y comercialización tiene impactos altamente nocivos en la vida de las personas y los bienes naturales, sobre todo de pueblos y comunidades que habitan en los territorios donde se ubican los proyectos extractivos.
 
-Los productos de tabaco calentado, además de ser promocionados como innovadores y de riesgo reducido, se insertan en una industria en crecimiento acelerado como son los dispositivos electrónicos, cuya cadena de suministro depende de un conjunto de materias primas adicionales al tabaco, tales como minerales metálicos y no metálicos. La explotación y comercialización de estos materiales tiene impactos altamente nocivos en la vida de las personas y los bienes naturales, sobre todo de pueblos y comunidades que habitan en los territorios donde se ubican los proyectos extractivos.
-
-Por ello, en este informe se busca ofrecer elementos que nos permitan tener una respuesta más adecuada a la siguiente pregunta: ¿hasta qué punto es sostenible mantener a flote el negocio de la adicción que se funda en la sobre-explotación minera para la producción de los dispositivos de tabaco calentado?
+Con esta investigación se muestra que no es sostenible el negocio de la adicción que se funda en la sobre-explotación minera para la producción de los dispositivos de tabaco calentado. Es necesario que las personas tomadoras de decisión cuestionen las afirmaciones de las tabacaleras sobre los beneficios de los PTC y promuevan una mayor vigilancia y regulación de estos productos. Las empresas tabacaleras deben priorizar la protección y el respeto de los derechos humanos y el medio ambiente sobre sus ganancias y dejar de intertar darle la vuelta a las leyes que les regulan.
 
 
 <div class="embed-responsive embed-responsive-16by9">
