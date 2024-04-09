@@ -19,7 +19,7 @@ Los productos de tabaco calentado se comercializan a través de una estrategia d
 
 
 [La empresa](/analisis-corporativo/)
-[Tabaco calentado](/tabaco-calentado/)
+[Dispositivos](/tabaco-calentado/)
 [¿Menos humo?](/menos-humo/)
 [Informe](/informe/)
 
