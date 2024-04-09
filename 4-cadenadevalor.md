@@ -11,17 +11,17 @@ La cadena de valor de los dispositivos de tabaco calentado se compone en primer 
 {:.image-post}
 ![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/CDSTabaco.png)
 
-Por otra parte, se encuentra la producción de los dispositivos para el calentado de tabaco que están vinculados con la industria manufacturera y las actividades extractivas, principalmente la minería, toda vez que requiere de minerales metálicos y no metálicos, algunos de ellos considerados como minerales críticos; es decir, aquellos que son esenciales para la transición energética y su impacto en el desarrollo de los países. Entre ellos se encuentran el germanio, boron, galio y arsénico. Además metales que son utilizados en este tipo de dispositivos son el oro, platino y tungsteno entre otros, los cuales son minerales necesarios para la producción de microprocesadores o semiconductores, así como circuitos electrónicos. Los productos de tabaco calentado incluyen por ejemplo una lámina de calentamiento de cerámica que contiene rastros de oro y platino.
+Por otra parte, se encuentra la producción de los dispositivos para el calentado de tabaco que están vinculados con la industria manufacturera y las actividades extractivas, principalmente la minería, toda vez que requiere de minerales metálicos y no metálicos, algunos de ellos considerados como minerales críticos; es decir, aquellos que son esenciales para la transición energética y su impacto en el desarrollo de los países. Entre ellos se encuentran el germanio, boron, galio y arsénico. Además metales que son utilizados en este tipo de dispositivos son el oro, platino y tungsteno entre otros, los cuales son minerales necesarios para la producción de microprocesadores o semiconductores, así como circuitos electrónicos. Los productos de tabaco calentado incluyen por ejemplo una lámina de calentamiento de cerámica que contiene rastros de oro y platino (PMI-IQOS).
 
 Otro tipo de minerales que son utilizados en la producción de dispositivos electrónicos son
 considerados como minerales en conflicto, entre los que se encuentra el estaño, tungsteno,
 tantalio y oro. Se trata de aquellas materias primas que a menudo se extraen de forma ilegal y
 sin control estatal en regiones de conflicto o zonas de alto riesgo como la República Democrática
-del Congo o de alguno de sus países vecinos, donde las violaciones de los derechos humanos
+del Congo o de alguno de sus países vecinos, donde las violaciones a los derechos humanos
 y del derecho internacional están estrechamente vinculados con esta actividad.
 
-La extracción de estos minerales en ocasiones pueden ser utilizados con la finalidad de finan
-ciar conflictos armados en algunos países. Desde 2014 las empresas registradas en los Estados
+La extracción de estos minerales en ocasiones pueden ser utilizados con la finalidad de financiar 
+conflictos armados en algunos países. Desde 2014 las empresas registradas en los Estados
 Unidos son requeridas para presentar un reporte anual ante la SEC donde informen si utilizan
 alguno de los minerales en conflicto. 
 
@@ -33,4 +33,4 @@ La cadena de suministro de los PTC, como otras que se basan en la explotación i
 de bienes naturales, da cuenta de un negocio que profundiza el modelo capitalista basado en
 el extractivismo neocolonial, en el que paradójicamente los mercados menos significativos son
 aquellos donde se quedan y resienten de mayor forma los pasivos ambientales, sociales y las
-consecuencias de las violaciones a los derechos humanos
+consecuencias de las violaciones a los derechos humanos.
