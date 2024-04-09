@@ -6,7 +6,7 @@ permalink: /cadena-de-valor/
 
 # Los impactos de la producción de los dispositivos de tabaco calentado
 
-La cadena de valor de los dispositivos de tabaco calentado (PTC) comienza con las unidades de tabaco,ligadas al cultivo y procesamiento del tabaco.
+La cadena de valor de los dispositivos de tabaco calentado (PTC) comienza con las unidades de tabaco, ligadas al cultivo y procesamiento del tabaco.
 
 {:.image-post}
 ![Ingresos de PMI por productos libres de humo]({{ site.baseurl }}/assets/img/CDSTabaco.png)
