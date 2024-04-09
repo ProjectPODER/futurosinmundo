@@ -31,6 +31,6 @@ Actualmente se cuenta con una base de datos que ha identificado una lista de pro
 
 La cadena de suministro de los PTC, como otras que se basan en la explotación intensiva
 de bienes naturales, da cuenta de un negocio que profundiza el modelo capitalista basado en
-el extractivismo neocolonial, en el que paradójicamente los mercados menos significativos son
+el extractivismo, en el que paradójicamente los mercados menos significativos son
 aquellos donde se quedan y resienten de mayor forma los pasivos ambientales, sociales y las
 consecuencias de las violaciones a los derechos humanos.
