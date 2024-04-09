@@ -3,7 +3,7 @@ layout: page
 title: Informe
 permalink: /informe/
 ---
-# Futuro sin mundo: una perspectiva sobre la cadena de valor de los productos de tabaco calentado
+# El negocio de la adicción. Análisis sobre la cadena de suministro de los productos de tabaco calentado.
 
 
 En los últimos años ha habido un auge en los dispositivos electrónicos de suministro de nicotina junto con los dispositivos de tabaco calentado, los cuales tienen cada vez mayor presencia en los mercados, a pesar de las muchas interrogantes que existen sobre sus efectos en la salud de las personas que los consumen, y con las que conviven, aunado a los escasos estudios al respecto. Uno de los argumentos clave de las empresas tabacaleras para el desarrollo y venta de estos dispositivos gira en torno a la eliminación de la combustión; una ventaja que, de acuerdo con ellas, supone la liberación de más de seis mil sustancias potencialmente dañinas para el cuerpo humano.
