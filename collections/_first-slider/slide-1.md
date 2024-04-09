@@ -5,4 +5,6 @@ iframe: https://onodo.org/visualizations/281751/embed/
 
 # Mapa de actores de la empresa PMI en América Latina
 
-El mapa es interactivo, por lo que muestra las subsidiarias en América Latina de PMI, sus proveedores, así como sus principales financiadores. En cada uno de los actores se puede observar información específica como nombre de la empresa, relación con la matriz, ubicación.
+PMI cuenta con cerca de 240 subsidiarias en aproximadamente 80 países alrededor del mundo, de las cuales la mayoría se ubican en Estados Unidos, Suiza, Reino Unido, Suecia y Países Bajos. Tan
+sólo en Suiza cuenta con 22 subsidiarias. En México, PMI es propietario mayoritario de Philip Morris México Productos Y Servicios, Sociedad de Responsabilidad Limitada de Capital Variable,
+Philip Morris México, Sociedad Anónima de Capital Variable y Tabacos Desvenados, Sociedad Anónima de Capital Variable.
