@@ -9,7 +9,7 @@ permalink: /menos-humo/
 En la siguiente infografía interactiva se muestran algunos de los impactos asociados a las distintas etapas de la cadena productiva de los PTC. (Para visualizar información de proveedoras e impactos hay que pasar el cursor por cada uno de los eslabones de la cadena).
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AH-PMI" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/65dcb0189fec8e001497ae37" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div> 
-
+<br>
 
 
 La producción de los dispositivos para el calentado de tabaco se vincula con la industria manufacturera y las industrias extractivas, principalmente la minería, porque requiere de minerales metálicos y no metálicos, algunos de ellos minerales críticos; es decir, aquellos que son esenciales para la transición energética y su impacto en el desarrollo de los países como el germanio, boron, galio y arsénico. También se necesita oro, platino y tungsteno entre otros que son necesarios para la producción de microprocesadores o semiconductores y circuitos electrónicos. Los productos de tabaco calentado incluyen una lámina de calentamiento de cerámica que contiene oro y platino (PMI-IQOS).
