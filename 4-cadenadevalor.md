@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Cadena de valor
-permalink: /cadena-de-valor/
+permalink: /menos-humo/
 ---
 
 # Los impactos de la producción de los dispositivos de tabaco calentado
