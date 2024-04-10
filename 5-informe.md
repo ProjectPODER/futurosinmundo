@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Informe
-permalink: /informe/
+title: El negocio de la adicción
+permalink: /el-negocio-de-la-adiccion/
 ---
 # El negocio de la adicción. Análisis de la cadena de suministro de los productos de tabaco calentado.
 
