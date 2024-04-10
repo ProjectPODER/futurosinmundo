@@ -19,7 +19,7 @@ Los productos de tabaco calentado se comercializan a través de una estrategia d
 
 
 [La empresa](/futurosinmundo/philip-morris/)
-[Dispositivos](/futurosinmundo/tabaco-calentado/)
+[Dispositivos](/futurosinmundo/dispositivos-electronicos/)
 [¿Menos humo?](/futurosinmundo/menos-humo/)
 [El Negocio de la Adicción](/futurosinmundo/el-negocio-de-la-adiccion/)
 
