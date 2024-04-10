@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cadena de valor
+title: ¿Menos humo?
 permalink: /menos-humo/
 ---
 
