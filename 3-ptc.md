@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tabaco calentado
-permalink: /tabaco-calentado/
+title: Dispositivos electrónicos
+permalink: /dispositivos-electronicos/
 ---
 # Radiografía de los productos de tabaco calentado
 
