@@ -6,7 +6,7 @@ permalink: /menos-humo/
 
 # Los impactos de la producción de los dispositivos de tabaco calentado
 
-En la siguiente infografía interactiva se muestran algunos de los impactos potenciales asociados a las distintas etapas de la cadena productiva de los PTC. (Para visualizar información de proveedoras e impactos hay que pasar el cursor por cada uno de los eslabones de la cadena).
+En la siguiente infografía interactiva se muestran algunos de los impactos potenciales y que podrían estar asociados a las distintas etapas de la cadena productiva de los PTC. (Para visualizar información de proveedoras e impactos hay que pasar el cursor por cada uno de los eslabones de la cadena).
 
 <div style="width: 100%;"><div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe title="AH-PMI" frameborder="0" width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://view.genial.ly/65dcb0189fec8e001497ae37" type="text/html" allowscriptaccess="always" allowfullscreen="true" scrolling="yes" allownetworking="all"></iframe> </div> </div> 
 <br>
