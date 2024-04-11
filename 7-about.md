@@ -37,6 +37,8 @@ Coordinación de Comunicación Externa: Paulina Souza.
 
 Coordinación del proyecto: Oscar Pineda. 
 
+Dirección de Investigación: M. Julieta Lamberti
+
 Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym. 
 
     
