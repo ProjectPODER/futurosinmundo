@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-iframe: https://public.flourish.studio/visualisation/19479688/thumbnail
+iframe: https://flo.uri.sh/visualisation/19479688/embed
 ---
 
 # ¿Quiénes son las proveedoras de PMI?
