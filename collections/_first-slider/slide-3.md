@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-iframe: https://public.flourish.studio/visualisation/19479584/thumbnail
+iframe: https://flo.uri.sh/visualisation/19479584/embed
 ---
 
 # Las socias de la adicción
