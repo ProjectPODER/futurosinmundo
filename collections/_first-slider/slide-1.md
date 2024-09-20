@@ -1,6 +1,6 @@
 ---
 title: Slide 1
-iframe: https://public.flourish.studio/visualisation/19479656/thumbnail
+iframe: https://flo.uri.sh/visualisation/19479656/embed
 ---
 
 # Philip Morris International (PMI) en América Latina
